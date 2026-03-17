@@ -44,11 +44,18 @@ CIRCUIT DIAGRAM AND Tabulation:
 
 
 a.   KVL:
+
+<img width="1619" height="855" alt="Screenshot 2026-03-17 211227" src="https://github.com/user-attachments/assets/93df27aa-8157-4109-9f91-b006e4a7b03f" />
+
  
 ![alt text](<WhatsApp Image 2026-03-14 at 3.35.38 PM (1).jpeg>)
 
 b.  KCL:
- 
+
+
+<img width="1728" height="907" alt="Screenshot 2026-03-17 211457" src="https://github.com/user-attachments/assets/d5a8ba51-e755-475b-9408-5d72f4f1bd8a" />
+
+
 ![alt text](<WhatsApp Image 2026-03-14 at 3.35.39 PM (1).jpeg>)
 
 
