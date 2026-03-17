@@ -58,6 +58,7 @@ a. KCL AND KVL:
  
 ![alt text](<WhatsApp Image 2026-03-14 at 3.35.39 PM.jpeg>)
 
+![alt text](<WhatsApp Image 2026-03-14 at 3.35.39 PM (2).jpeg>)
 
 RESULT:
 
